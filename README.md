@@ -16,12 +16,12 @@ This is a simple todo application built with React.js and Firebase, allowing use
 ### 1. Clone the repository:
 
 ```
-git clone https://github.com/pratikkhulge/TODO.git
+git clone https://github.com/amitisharwal/Board-Infinity-Assignment.git
 ```
 
 ### 2. Navigate into the project directory:
 ```
-cd react-todo-firebase
+cd Board-Infinity-Assignment
 ```
 
 ### 3. Install dependencies using npm or yarn:
